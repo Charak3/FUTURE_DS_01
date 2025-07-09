@@ -1,4 +1,3 @@
-# FUTURE_DS_01
 # FUTURE_DS_01 – E-commerce Sales Dashboard
 
 This is my Task 1 submission for the **Future Interns Data Science & Analytics Virtual Internship**.
