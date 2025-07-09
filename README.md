@@ -1,27 +1,34 @@
-# FUTURE_DS_01 – E-commerce Sales Dashboard
+# FUTURE_DS_01 – Superstore Sales Analytics Dashboard
 
 This is my Task 1 submission for the **Future Interns Data Science & Analytics Virtual Internship**.
 
+## 📊 Project Title:
+**Superstore Sales Analytics Dashboard**
+
+---
+
 ## 🔍 Objective
 
-To build an interactive dashboard using **Power BI** to analyze e-commerce sales and deliver business-level insights such as:
-- Best-selling products
-- High-revenue categories
-- Sales trends across time and region
+To analyze sales performance of a retail dataset using **Power BI**. The dashboard highlights:
+
+- High-performing products and categories  
+- Sales trends over time  
+- Profitability and return rate  
+- State-wise revenue distribution
 
 ---
 
-## 📊 Dashboard Insights
+## 📈 Key Insights
 
-- 💰 **Total Sales**: Increased 47% YoY  
-- 🧠 **Best Category**: Technology led in both sales and profitability  
-- 📉 **Returns**: Return rate decreased by 2.95%  
-- 🪑 **Furniture**: High sales, but poor profit margins  
-- 🗺️ **State Analysis**: Visualized via filled map
+- 📈 Sales grew by 47% from last year  
+- 🪑 Furniture had high sales but low profits  
+- 🧠 Technology was the most profitable category  
+- 📉 Return rate dropped 2.95% YoY  
+- 🗺️ State-wise sales mapped clearly for regional insights
 
 ---
 
-## 📎 Files in this repo
+## 📎 Files in this Repository
 
 | File Name | Description |
 |-----------|-------------|
@@ -33,10 +40,18 @@ To build an interactive dashboard using **Power BI** to analyze e-commerce sales
 
 ## 🛠 Tools Used
 
-- Power BI  
-- DAX for calculated metrics  
-- Data cleaning and modeling
+- Microsoft Power BI  
+- DAX Measures  
+- Basic data cleaning
 
 ---
+
+## 📬 About Me
+
+👤 **Charak Karle**  
+🎓 MNNIT Allahabad  
+💼 Aspiring Data Analyst  
+
+
 
 
